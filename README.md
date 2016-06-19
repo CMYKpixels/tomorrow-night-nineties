@@ -1,4 +1,4 @@
-![Brackets Themes](https://github.com/Brackets-Themes/TomorrowNight/blob/master/bracket-themes-icon-100x99.png)
+![Brackets Themes](https://github.com/CMYKpixels/tomorrow-night-nineties/blob/master/bracket-themes-icon-100x99.png?raw=true)
 A Tomorrow Night Nineties Theme for Brackets
 =========
 
@@ -10,4 +10,5 @@ This is itself based on Ryan Stewart's [Tomorrow Night theme for Brackets](https
 
 #####For more themes and install instructions see the [Brackets Themes website](http://brackets-themes.github.io/)
 
-
+---
+[HTML]()
