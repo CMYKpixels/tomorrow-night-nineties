@@ -11,4 +11,11 @@ This is itself based on Ryan Stewart's [Tomorrow Night theme for Brackets](https
 #####For more themes and install instructions see the [Brackets Themes website](http://brackets-themes.github.io/)
 
 ---
-[HTML]()
+####HTML PREVIEW
+![HTML](https://github.com/CMYKpixels/tomorrow-night-nineties/blob/master/html.png.jpg?raw=true)
+
+####CSS PREVIEW
+![CSS](https://github.com/CMYKpixels/tomorrow-night-nineties/blob/master/JavaScript.png?raw=true)
+
+####JAVASCRIPT PREVIEW
+![JAVASCRIPT](https://github.com/CMYKpixels/tomorrow-night-nineties/blob/master/JavaScript.png?raw=true)
