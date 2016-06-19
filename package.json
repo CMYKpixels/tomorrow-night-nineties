@@ -1,26 +1,14 @@
 {
-  "name": "tomorrow-night-nineties",
-  "version": "1.0.0",
-  "description": "My first theme, I just wanted to tweak some colors in Tomorrow Night Eighties, but I ended up remaking the color scheme. My goal is to make it easier to relate HTML and Javascript elements while coding. If you have any ideas to imrove readability feel free to comment ! Thnak you for Downloading and using my theme !",
-  "main": "README.md",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CMYKpixels/tomorrow-night-nineties.git"
-  },
-  "keywords": [
-    "Brackets",
-    "theme",
-    "dark",
-    "readability",
-    "IDE"
-  ],
-  "author": "Julien \"CMYKpixels\" Alsina",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/CMYKpixels/tomorrow-night-nineties/issues"
-  },
-  "homepage": "https://github.com/CMYKpixels/tomorrow-night-nineties#readme"
+    "name": "Julien \"CMYKpixels\" Alsina - Tomorrow Night Nineties",
+    "title": "Tomorrow Night Nineties",
+    "description": "My first theme, I just wanted to tweak some colors in Tomorrow Night Eighties, but I ended up remaking the color scheme. My goal is to make it easier to relate HTML and Javascript elements while coding.",
+    "version": "1.0.0",
+    "author": "Julien \"CMYKpixels\" Alsina <julien.alsina@gmail.com> (http://github.com/CMYKpixels)",
+    "license": "MIT",
+    "theme": {
+        "file": "TomorrowNight90s.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["dark, theme, tomorrow, night, nineties, colorful, readability, easy, eyes, javascript, html, css, sass, eighties"]
 }
